@@ -5,3 +5,5 @@ This is a coursework project that I completed at the university. The aim of this
 ## Video Link
 https://www.youtube.com/watch?v=IwAz8Jd5nSc
 
+
+![CSC3231](https://user-images.githubusercontent.com/122996235/216296239-5f2db258-99fc-404f-b2b9-fe3bf54dfdd5.png)
